@@ -6,7 +6,10 @@
      * User: Elizabeth Kanzler
      * Date: 1/11/2018
      * Time: 1:36 PM
-     */ ?>
+     */
+    require_once('vendor/autoload.php');
+    $f3 = Base::instance();
+    ?>
 
 
     <head>

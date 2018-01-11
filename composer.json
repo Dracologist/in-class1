@@ -1,0 +1,12 @@
+{
+  "name": "ekanzler/in-class1",
+  "authors": [
+    {
+      "name": "Elizabeth Kanzler",
+      "email": "ekanzler@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
