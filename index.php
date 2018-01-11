@@ -11,10 +11,11 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>JavaScript Exercises</title>
+        <title>Git Practice</title>
     </head>
 
     <body>
         <h1>Hello, World!</h1>
+        <h2>How are you today?</h2>
     </body>
 </html>
